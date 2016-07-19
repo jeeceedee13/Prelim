@@ -1,0 +1,5 @@
+A.) Single threaded for me is one command at a time.
+B.) For me event driven architecture can detect reactions/changes in an event.
+C.) The benefits of javascript module is you can work two programs separately to avoid errors.
+D.) The two implementations of javascript module are asynchronous and synchronous.
+E.) Module bundler for me is a way to organize and join/combine one package/project to the other package/project. 
